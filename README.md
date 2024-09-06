@@ -56,10 +56,3 @@ Special thanks to:
  * yfdyh000 and KrasnayaPloshchad for the Chinese translation
  * micrococo for the Spanish translation
  * STim99 for the Russian translation
-
------
-
-If you want to support this addon you can donate to the following addresses:
- * bitcoin: 159Y9BLcfHyrp6wj6f3syEuk92xkRVTiie
- * bitcoin cash:qrchnszkdwv9knhg9wjucrqy43rpl4klkq7jhkc8dz
- * monero: 482QYZaagALWtPmwbptwBaexDYmcVsJrhJp2VVjTgjYA3Kk1YyMdSg9Wz2qz1Gh31E843PFVCDWS4hR4Bjf6ipWuB9iz2cs
